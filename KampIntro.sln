@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KampIntro", "KampIntro\KampIntro.csproj", "{B3EDBF99-9F69-4F35-81C9-6351ACF93E88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donguler", "Donguler\Donguler.csproj", "{B80B6273-5187-4E34-B953-120D5E343B0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{01A2F010-414E-47A8-A1C4-FF36FFE4D2EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3EDBF99-9F69-4F35-81C9-6351ACF93E88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3EDBF99-9F69-4F35-81C9-6351ACF93E88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3EDBF99-9F69-4F35-81C9-6351ACF93E88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3EDBF99-9F69-4F35-81C9-6351ACF93E88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B80B6273-5187-4E34-B953-120D5E343B0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B80B6273-5187-4E34-B953-120D5E343B0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B80B6273-5187-4E34-B953-120D5E343B0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B80B6273-5187-4E34-B953-120D5E343B0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01A2F010-414E-47A8-A1C4-FF36FFE4D2EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01A2F010-414E-47A8-A1C4-FF36FFE4D2EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01A2F010-414E-47A8-A1C4-FF36FFE4D2EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01A2F010-414E-47A8-A1C4-FF36FFE4D2EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C39AD69E-6E44-452A-9D7F-D78CED043B70}
+	EndGlobalSection
+EndGlobal
